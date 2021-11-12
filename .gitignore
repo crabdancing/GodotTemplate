@@ -1,6 +1,5 @@
 # Misc
 *.backup
-set-project-name.py
 # Rider
 .idea/
 *.user
